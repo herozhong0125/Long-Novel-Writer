@@ -19,7 +19,7 @@ Long-Novel Writer 是一个基于人工智能的小说创作辅助工具，旨�
 
 1. 克隆此仓库：
    ```
-   git clone https://github.com/your_username/long-novel-writer.git
+   git clone https://github.com/herozhong0125/Long-Novel-Writer
    cd long-novel-writer
    ```
 
@@ -66,5 +66,5 @@ Long-Novel Writer 是一个基于人工智能的小说创作辅助工具，旨�
 
 项目维护者：[您的姓名] - [您的邮箱]
 
-项目链接：[https://github.com/your_username/long-novel-writer](https://github.com/your_username/long-novel-writer)
+项目链接：[https://github.com/herozhong0125/Long-Novel-Writer](https://github.com/herozhong0125/Long-Novel-Writer)
 # Long-Novel-Writer
