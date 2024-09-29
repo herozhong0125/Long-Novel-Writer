@@ -4,7 +4,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://models.inference.ai.azure.com",
-    api_key="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"
+    api_key="*********"
 )
 
 def call_openai_api(prompt: str, model: str = "gpt-3.5-turbo", temperature: float = 0.7, max_tokens: int = 1000) -> str:
